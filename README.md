@@ -1,1 +1,1 @@
-# gradle-docker-plugin-spring-boot-m4
+# gradle-docker-plugin-spring-boot-2
